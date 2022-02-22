@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the preuenting of the exportation of woolles, vvoolle-fels, yarne, fullers earth, and vvoad-ashes, and for the better vent of cloth, and stuffe made of vvooll, within this kingdome</title>
+            <title>Proclamations. 1622-07-28</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22280</idno>
+            <idno type="STC">STC 8687</idno>
+            <idno type="STC">ESTC S100923</idno>
+            <idno type="EEBO-CITATION">99836750</idno>
+            <idno type="PROQUEST">99836750</idno>
+            <idno type="VID">1036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1601:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the preuenting of the exportation of woolles, vvoolle-fels, yarne, fullers earth, and vvoad-ashes, and for the better vent of cloth, and stuffe made of vvooll, within this kingdome</title>
+                  <title>Proclamations. 1622-07-28</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>MDC.XXII. [1622]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Privy Council has appointed a committee of twelve to inquire into the decay of the wool trade. They find that the export of wool, wool-fells, year, fuller's earth, and 'woad-ashes' assist foreign makers of cloth. Prohibits the exportation of any of these on pain of Star Chamber and such other, &amp;c. No officer is to allow the exportation of wool, nor to certify that it is landed unless he sees the actual quantity named in the 'cocket' landed. All licences for export of wool are revoked. Blacks and Mournings at Funerals to be made of English woollen cloth. No person to use logwood or 'blockwood' in dyeing. The Wardens of the Dyers to make search. All officers to assist in carrying out this Proclamation. A Commission will be appointed for the furtherance of trade." -- Steele.</note>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Otelands, the eight and twentieth day of Iuly, in the twentieth yeere of our reigne ... .</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Steele notation: seuerall them, 2)meanes 3)equall and; Arms 12.</note>
+                  <note>Reproduction of the originals in the Henry E. Huntington Library and Art Gallery (Early English books) and the British Library (Misc. Brit. tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+               <term>Foreign trade relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:1036:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King. ¶ A Proclamation for the preuenting of the exporta<g ref="char:EOLhyphen"/>tion of Woolles, Woolle-fels, Yarne, Fullers earth, and Woad-aſhes, and for the better vent of Cloth, and Stuffe made of Wooll, within this Kingdome.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Auing vnderſtood by the generall complaints of Our louing Subiects from the ſeuerall</hi> parts of this Our Realme of <hi>England,</hi> that of late yeeres the Woolles of this Our Kingdome are exceedingly fallen from their woonted va<g ref="char:EOLhyphen"/>lues, and that the Cloth and Stuffes of this Our Kingdome, haue not that vent in forraine parts which formerly they haue had: Wee taking theſe things, and the weightie conſequence thereof, into Our Princely conſideration, as matter of very great importance to the wealth and welfare of this Our Kingdome, and being carefull to prouide a ſpee<g ref="char:EOLhyphen"/>dy and effectuall remedy againſt ſuch a growing euill, and to the end that the honeſt Clothiers, and thoſe painefull workfolkes that depend vpon them, might bee comforted in their labours, and bee incouraged in their trades, and the Woolles and manufactures of Woolles reſtored to their wonted eſtimation; Haue therefore ſeriouſly and often aduiſed with Our Priuie Counſell for the good of Our people; and the better to be informed, both of the true cauſes, and the fitteſt remedies, thought it expedient, firſt to no<g ref="char:EOLhyphen"/>minate a Committee of twelue perſons of quality and knowne abilities, not onely to informe them<g ref="char:EOLhyphen"/>ſelues out of their owne obſeruations and iudgements, but alſo by conference with diuers Knights and Gentlemen of ſeuerall Counties, Merchants of diuers Societies, Clothiers of ſeuerall clothing-Shires, and with all ſuch others as they in their opinions thought fit, and then afterwards to make report to Vs and Our Priuie Counſell of their proceedings in that behalfe.</p>
+            <p>Which Committee, according to Our truſt in them repoſed, haue with great care and diligence tra<g ref="char:EOLhyphen"/>uelled therein, and exactly inquired both into the cauſes, and after the remedies, and made their re<g ref="char:EOLhyphen"/>port vnto Vs accordingly: Whereupon, and after aduiſe taken with Our Priuie Counſell, We finde amongſt other things of moment, That the exportation of Woolles, Woolle-fels, Woollen yarne, Fullers earth, and Woad-aſhes, are a great meanes to inable the forraigne making of Cloth, and a principall impediment to the vent of Our Clothes made in <hi>England;</hi> And that the falſe and deceit<g ref="char:EOLhyphen"/>full making, dying, and dreſſing of Our Cloth and Stuffes heere made of Woolles, doth exceeding<g ref="char:EOLhyphen"/>ly diſgrace and diſcredit the Drapery of this Our Kingdome, and doth very much hinder the vent of theſe commodities.</p>
+            <pb facs="tcp:1036:2"/>
+            <p>We therfore out of the great deſire We haue to aduance the wealth of Our people, &amp; by all meanes poſſible to cheriſh and comfort their labours, doe by theſe preſents ſtraitely charge and command, that no manner of Woolles, Woolle-fels, Wollen yarne, Corniſh-hayre, Fullers earth, Woad aſhes, be at any time or times heereafter, exported out of this Our Realme of <hi>England,</hi> Dominion of <hi>Wales,</hi> Towne or Port of <hi>Barwicke,</hi> or any the Iles, Ports, Creekes, or places therof, into any forraine parts, or into Our Kingdome of <hi>Scotland,</hi> nor that any maner of Woolls, Wooll-fels, Woollen yearne, Ful<g ref="char:EOLhyphen"/>lers earth, or Woad-aſhes, be tranſported out of Our Kingdome of <hi>Ireland,</hi> into any other parts then into the Realme of <hi>England</hi> onely, vpon paine of confiſcation of all ſuch Woolles, and other the pre<g ref="char:EOLhyphen"/>miſſes ſo tranſported, or endeuoured to be tranſported, as alſo of Our higheſt indignation, and the ſeurreſt cenſure of Our Court of <hi>Starre-chamber,</hi> and of ſuch other paines and penalties as by the Lawes and Statutes of this Our Kingdome, and by Our Prerogatiue Royall may bee in<g ref="char:EOLhyphen"/>flicted.</p>
+            <p>And to the end that all Officers and Miniſters in, or about Our Ports of <hi>England,</hi> may the more ſtrictly looke to the obſeruance of this Our will and pleaſure, for the weale of this Our Kingdome; We do further ſtraitly charge and command, that if any Officer or Miniſter of or belonging to Our Cuſtomes or Ports, or attending at any the Hauens, Creekes, or places adiacent, or carrying to the Sea, ſhall conſent or conniue at the vnlawfull exportation of the premiſſes, or any of them: Or if any of them ſhall make any certificate vpon any cocket of the landing of any Woolles in any Ports of this Our Realme, vnleſſe the Officer himſelfe, who ſhall make ſuch certificate, do firſt ſee the ſame Wools landed, according to the contents of the ſayd certificate: Or if the ſayd Officers or any of them ſhall make any cocket, which ſhall not conteine both the number of Sackes, and the weight of the Wooll in euery Sack conteyned in ſuch cocket; That then euery ſuch Officer and Miniſter, who ſhall offend in any the premiſſes, ſhall not onely forfeit his Office, place, and employment, but ſhall alſo incurre all other the paynes and penalties aforeſayd. And if any Miniſter or Officer of, or many ſhip or o<g ref="char:EOLhyphen"/>ther Veſſell, ſhall permit and ſuffer any Woolles, Wooll-fels, or any other of the premiſſes to bee tranſported in any Ship, Bottome, or other Veſſell, wherein, or whereof he is or ſhall bee Maſter, or other Officer; That then euery perſon ſo offending ſhall be ſubiect vnto ſuch paines and penalties as aforeſayd.</p>
+            <p>And in caſe there be now in force any former Licences or authorities heeretofore giuen and gran<g ref="char:EOLhyphen"/>ted by Vs, or any of Our Predeceſſors, for tranſportation of Woolles, or any other the premiſſes, We doe heereby reuoke and diſanull the ſame; And are reſolued that none ſuch heereafter ſhall bee granted: And for the better vtterance of Cloth within this Our Kingdome, Wee doe ſtraitly charge and command, that when, and as often as vpon the occaſion of any Burials or Funerals, any Blacks be heereafter giuen or worne; That then ſuch blackes and mourning ſtuffes ſhall bee onely of Cloth and Stuffes, made of the Wooll of this Kingdome, and not elſewhere, nor otherwiſe.</p>
+            <p>And for that Wee are informed that the falſe dying of Cloth and Stuffes made of Woolls, is a great hinderance to the vent of thoſe commodities: Therefore We ſtraitly will and command, That no perſon whatſoeuer in, or towards the dying of any Cloth, of what ſort ſoeuer, or of any Stuffes made of Wooll, ſhall vſe any Logwood or Blockewood, the vſe whereof about the ſayd Clothes and Stuffes, hath ſo often by ſeuerall Lawes and Proclamations beene already condemned: And for the better diſcouery of falſe and deceauable dying, and the ſuppreſſing of the ſayd Logwood and Blockewood, in and about the dying of Stuffes made of Wooll, Wee ſtraitly charge and command the Wardens of the Diers of <hi>London,</hi> within the compaſſe of their ſearch, and all other Officers in o<g ref="char:EOLhyphen"/>ther places, That from time to time they make carefull &amp; diligent ſearch for the diſcouery of all falſe and deceitfull dying: and if in their ſearches they ſhall finde any Cloth or Stuffe died with Log<g ref="char:EOLhyphen"/>wood or Blockewood, either in all or in part, That they ſeaze the ſame, and informe Our Attur<g ref="char:EOLhyphen"/>ney Generall for the time being thereof, that ſuch proceeding may be ſpeedily had againſt the offen<g ref="char:EOLhyphen"/>ders, as ſo great a contempt deſerueth.</p>
+            <p>Further. We doe hereby ſtraitly charge and command all Iuſtices of Peace, Maiors, Sheriffes, Bayliffes, Officers, and other perſons whatſoeuer, to doe their beſt endeuours to diſcouer all and euery the offenders againſt this Our Proclamation. And for the better encouragement of all ſuch as ſhall take care and paines to make ſuch diſcoueries. Our will and pleaſurs is, that euery ſuch perſon that ſhall be the firſt diſcouerer of ſuch offender, ſhall be rewarded with the moity, or one halfe of ſuch ſummes of money as ſhall come vnto Vs by vertue of any forfeiture incurred vpon this Our Proclamation, Giuing alſo like charge and command, that all perſons of what degree, quality or place ſoeuer, to whom it ſhall appertaine, doe diligently obſerue, and readily aſſiſt the due perfor<g ref="char:EOLhyphen"/>mance of this Our Proclamation in all things.</p>
+            <pb facs="tcp:1036:3"/>
+            <p>Alſo We doe hereby thinke good to declare to all Our louing Subiects, that, for the more equall ballancing of trade, furthering of Commerce, increaſing of Marchandize, remoouing of impedi<g ref="char:EOLhyphen"/>ments of Trade, and applying of remedies, according to the variation of occaſions, and for di<g ref="char:EOLhyphen"/>uers other waightie matters, much importing the enriching and flouriſhing eſtate of this Our kingdome of <hi>England,</hi> We are reſolued foorthwith, by Commiſſion vnder Our great Seale of <hi>England,</hi> to authorize ſome ſelect perſons to be Our Commiſſioners, who ſhall take into their ſpeciall care and conſideration the cauſes and matters aforeſaid, and they from time to time to make report thereof to the Body of our priuie Counſell, whereupon, We with the aduiſe of Our priuie Counſell, ſhall apply ſuch further helpe in each particular as ſhalbe apteſt and fitteſt for ſo great a worke.</p>
+            <p>And for the better proceeding in this Our intenſion, to the honour and weale of all Our King<g ref="char:EOLhyphen"/>domes, We are alſo reſolued, with all conuenient ſpeed, to giue directions, that ſome Commiſſio<g ref="char:EOLhyphen"/>ners out of Our Kingdome of <hi>Scotland,</hi> ſhall meet and conferre with Our Commiſſioners to be au<g ref="char:EOLhyphen"/>thorized by Vs in this Our Realme of <hi>England,</hi> to aduiſe of the beſt way, how the Woolles of that Our kingdome of <hi>Scotland,</hi> which ſhall not there be draped, may be brought hither into <hi>England,</hi> and here from time to time bee bought vp and employed in the Draperie of this kingdome.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Mannour of Otelands,</hi> 
+                  <date>
+                     <hi>the eight and twentieth day of Iuly, in the twentieth yeere of Our Reigne of England, France, and Ireland, and of Scotland the fiue and fiftieth.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. M DC. XXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
